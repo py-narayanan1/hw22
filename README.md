@@ -8,6 +8,8 @@ The Part_1 has the whatif.py i.e. renamed as hw2_visweswaran.py in the original 
 
 The Part_2 excel files to be inputted are placed in the input folder and the resultant excel files are placed in the output folder inside the notebooks folder . For the hacker part of the second part , the input files are placed in a folder named logs_hacker inside the input folder inside the notebooks folder and their corresponding outputs are placed in the output_hacker folder inside the notebooks folder . The code created for the hacker part is such that the files are differentiated as per their first three letters and are placed in seperate excel workbooks.
 
+Created rest files for both ipynbs as Part_1 and Part_2 and have been mentioned in the docs file
+
 Lastly all the commits have been made to the git repository .
 
 Project Organization
